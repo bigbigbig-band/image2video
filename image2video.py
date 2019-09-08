@@ -142,4 +142,4 @@ if __name__ == '__main__':
     videowrite.release()
     # for image in co.image_list:
     #     cv2.imshow("123", image)
-    #     cv2.waitKey()
+    #     cv2.waitKey()asdfasdf
